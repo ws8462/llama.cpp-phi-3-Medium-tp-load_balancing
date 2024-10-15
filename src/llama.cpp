@@ -108,8 +108,8 @@
 #define LLAMA_MAX_EXPERTS 160
 
 // 수정
-#define QUERY_NUM_HEAAD 18 //  = 56 // 3 
-#define KV_NUM_HEAD 3 // = 8 // 3 + 1
+#define QUERY_NUM_HEAAD 14 //  = 56 // 3 
+#define KV_NUM_HEAD 2 // = 8 // 3 + 1
 
 //
 // logging
