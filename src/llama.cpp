@@ -107,8 +107,8 @@
 #define LLAMA_MAX_NODES   8192
 #define LLAMA_MAX_EXPERTS 160
 
-#define NUM_ATTN_HEAD 1
-#define NUM_KV_HEAD 1
+#define NUM_ATTN_HEAD 14
+#define NUM_KV_HEAD 7
 //
 // logging
 //
